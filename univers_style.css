@@ -68,11 +68,6 @@ h2 {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 
-p {
-  color: white;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
-}
-
 .card {
   border-radius: 15px; /* Coins arrondis pour les cartes */
 }
