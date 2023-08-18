@@ -81,3 +81,9 @@ h2 {
   background-color: #c30026;
   color: white;
 }
+
+p {
+  color: #2c2c2c;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
