@@ -81,31 +81,3 @@ h2 {
   background-color: #c30026;
   color: white;
 }
-
-.bg-intro {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("./visuels/stock_images/crowd.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-technic {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("./visuels/stock_images/car3.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-star-wars {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("./visuels/stock_images/SWL2.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.bg-arc {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("./visuels/stock_images/Paris.jpg");
-  background-size: cover;
-  background-position: center;
-}
